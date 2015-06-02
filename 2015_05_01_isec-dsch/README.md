@@ -1,0 +1,3 @@
+Der Vortrag wurde am 01. Mai 2015 an der [HTW Dresden](http://htw-dresden.de/) im Rahmen der [BuFaK WiSo](http://bufak-dresden.de/) gehalten um Mitwirkende in studentischen Gremien für Informationssicherheit und Datenschutz zu sensibilisieren.
+
+Die Folien sind hier im Quellformat verfügbar und werden vom StuRa der HTW als PDF (in [16:9](http://www.stura.htw-dresden.de/vortraege/vortrag-informationssicherheit-bufak-wiso-16-9/at_download/file) und [4:3](http://www.stura.htw-dresden.de/vortraege/vortrag-informationssicherheit-bufak-wiso-4-3/at_download/file)) [zum Download](http://www.stura.htw-dresden.de/vortraege/) vorgehalten.
